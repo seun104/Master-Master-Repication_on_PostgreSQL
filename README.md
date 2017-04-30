@@ -4,6 +4,7 @@
 
 Good afternoon colleague, I want to share my experience in the implementation of the PostgreSQL replication configuration of the master <-> master type, for replicating CDR data, this solution was used to replicate the CDR database of FreeSwitch
 
+ ![alt text](https://raw.githubusercontent.com/SKletsov/Master-Master-Repication_on_PostgreSQL/master/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
 
 # Initial data
 Bucardo is a replication system for Postgres that supports any number of sources and targets (aka masters and slaves). It is asynchronous and trigger based.
