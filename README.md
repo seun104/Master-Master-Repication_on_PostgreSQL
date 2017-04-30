@@ -126,7 +126,12 @@ listen_addresses = ‘*’
 ```
 Then you need to specify which hosts and how to work with the database, first the first host:
 
+```bash
+ /var/lib/pgsql/9.4/data/pg_hba.conf
+```
+
 PG_Node_1
+
 
 
 ```bash
