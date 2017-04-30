@@ -1,0 +1,1 @@
+/usr/pgsql-9.4/bin/postgres "-D" "/var/lib/pgsql/9.4/data"
